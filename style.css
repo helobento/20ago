@@ -16,3 +16,8 @@ header {
     gap: 28px;
     text-transform: uppercase;
 }
+.nav-item:hover {
+    cursor: pointer;
+    background-color: white;
+    color: blue;
+}
