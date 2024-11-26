@@ -21,3 +21,16 @@ header {
     background-color: rgb(255, 255, 255);
     color: rgba(0, 238, 255, 0.452);
 }  
+
+section {
+    width: 100%;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 2%;
+}
+
+.moldura_videos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
